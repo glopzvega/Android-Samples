@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"    
+    android:gravity="top">
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/dashboard_icon_text"
+        android:layout_marginTop="17dp"
+        android:background="#E0E0E0" />
+
+      <View
+          android:id="@+id/view2"
+          android:layout_width="1dp"
+          android:layout_height="wrap_content"
+          android:layout_alignBottom="@+id/view1"          
+          android:layout_alignParentRight="true"
+          android:layout_alignParentTop="true"          
+          android:background="#E0E0E0" />
+
+      <ImageView
+          android:id="@+id/dashboard_icon_img"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignParentTop="true"
+          android:layout_centerHorizontal="true"
+          android:layout_marginTop="16dp"
+          android:scaleType="centerCrop"
+          android:src="@drawable/ic_action_info" />
+
+      <TextView
+          android:id="@+id/dashboard_icon_text"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/dashboard_icon_img"
+          android:layout_centerHorizontal="true"
+          android:layout_marginTop="15dp"
+          android:gravity="center"
+          android:text="@string/hello_world"
+          android:textAppearance="?android:textAppearanceMedium"
+          android:textColor="@android:color/black" />
+
+</RelativeLayout>
