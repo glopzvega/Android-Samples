@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">PruebaInterfaces</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialogos">Prueba de Dialogos</string>
+    <string name="tabs">Prueba de Tabs</string>
+    <string name="progress">Dialogo Progreso</string>
+    <string name="edittext">Dialog EditText</string>
+
+</resources>

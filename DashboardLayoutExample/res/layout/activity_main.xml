@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <com.example.dashboardlayoutexample.DashboardLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        
+        <Button android:id="@+id/dashboard_button_add"
+            style="@style/DashboardButton"
+            android:text="@string/activity_add"
+            android:drawableTop="@drawable/dashboard_button_info" />
+ 
+        <Button android:id="@+id/dashboard_button_viewall"
+            style="@style/DashboardButton"
+            android:text="@string/activity_viewall"
+            android:drawableTop="@drawable/dashboard_button_info" />                
+ 
+        <Button android:id="@+id/dashboard_button_manage"
+            style="@style/DashboardButton"
+            android:text="@string/activity_manage"
+            android:drawableTop="@drawable/dashboard_button_info" />
+ 
+        <Button android:id="@+id/dashboard_button_personalbests"
+            style="@style/DashboardButton"
+            android:text="@string/activity_personalbests"
+            android:drawableTop="@drawable/dashboard_button_info" /> 
+
+        
+        
+    </com.example.dashboardlayoutexample.DashboardLayout>
+
+</LinearLayout>

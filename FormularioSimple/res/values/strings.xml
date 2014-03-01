@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Formulario Simple</string>
+    <string name="action_settings">Configuracion</string>    
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="email">Email:</string>
+    <string name="enviar">Enviar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="resultado">VALORES CAPTURADOS</string>
+
+    <string name="resultNombre">_</string>
+    <string name="resultApellido">_</string>
+    <string name="resultTelefono">_</string>
+    <string name="resultEmail">_</string>
+</resources>

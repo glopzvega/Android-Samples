@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ManejoMenus</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Manejo de Menús</string>
+    <string name="title_activity_ayuda">Ayuda</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="configuracion">Configuración</string>
+    <string name="title_activity_configuracion">ManejoMenus</string>
+    <string name="manejoMenus">Manejo de Menús</string>
+    <string name="copiar">Copiar</string>
+    <string name="cortar">Cortar</string>
+    <string name="pegar">Pegar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="contenido">Contenido Ayuda</string>
+    <string name="version">Version</string>
+
+</resources>

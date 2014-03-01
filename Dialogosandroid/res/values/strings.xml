@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dialogosandroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dialogo">Mostrar Dialogo</string>
+    <string name="dialogo2">Mostrar Dialogo 2</string>
+    <string name="password">Introduce Contraseña</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="guardar">Guardar</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="dialog_fire_missiles">Lanzar Misiles</string>
+    <string name="fire">Entrar</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/group1">
+        <item android:id="@+id/configuracion" android:title="@string/configuracion"></item>
+        <item android:id="@+id/ayuda" android:title="@string/ayuda">
+            <menu>
+                <item android:id="@+id/contenidoAyuda" android:title="@string/contenido"/>
+                <item android:id="@+id/version" android:title="@string/version"/>
+            </menu>
+        </item>
+    </group>
+
+</menu>

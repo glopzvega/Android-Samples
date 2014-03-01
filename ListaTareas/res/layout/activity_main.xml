@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editTextArea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/agregarDescElemento"
+        android:ems="10"
+        android:hint="@string/agregarElemento" >
+
+        <requestFocus />
+    </EditText>
+
+    <ListView
+        android:id="@+id/listViewTarea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:listitem="@android:layout/simple_list_item_2" >
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ 	<string name="app_name">ListaCompras</string>
+	<string name="menu_settings">Configuración</string>
+	<string name="title_activity_main">Lista de Compras</string>
+	<string name="agregarElemento">Agregar Elemento</string>
+	<string name="agregarDescElemento">Descripción Elemento</string>
+    
+</resources>
